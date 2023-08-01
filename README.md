@@ -9,3 +9,6 @@
 ### Results on test images
 ![test_results](https://github.com/melloulid/trimble_test/assets/141152003/5ed7c57d-b047-4216-8eeb-11da3d5bc34b)
 ### Results on other images
+![test_results (1)](https://github.com/melloulid/trimble_test/assets/141152003/68f83290-fb90-4986-ae9c-20e6a320dd6b)
+## model weights
+please find best weights here [efficientnet_b5_best](https://drive.google.com/drive/folders/1flUvkfaKZc5umJIr7QK3ZJBVNfEccePZ?usp=sharing)
