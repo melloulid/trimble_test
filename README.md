@@ -6,3 +6,6 @@
 3. test(test.py): test using the best weights(that give best loss on validation data) results are saved into image
 4. inference (inference.py): to test a specific image
 ## Results
+### Results on test images
+![test_results](https://github.com/melloulid/trimble_test/assets/141152003/5ed7c57d-b047-4216-8eeb-11da3d5bc34b)
+### Results on other images
