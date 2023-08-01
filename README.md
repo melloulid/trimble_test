@@ -12,3 +12,5 @@
 ![test_results (1)](https://github.com/melloulid/trimble_test/assets/141152003/68f83290-fb90-4986-ae9c-20e6a320dd6b)
 ## model weights
 please find best weights here [efficientnet_b5_best](https://drive.google.com/drive/folders/1flUvkfaKZc5umJIr7QK3ZJBVNfEccePZ?usp=sharing)
+## loss and accuracy curves
+![loss_curve](https://github.com/melloulid/trimble_test/assets/141152003/37da34a3-5605-4f50-b314-6081b25cec63)
